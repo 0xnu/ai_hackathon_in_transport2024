@@ -35,9 +35,7 @@ This repository contains the work of Team 4 for the [AI Hackathon in Transport 2
 
 Ada x Amine x Harry x Finbarrs x Jill x Jamie x Hakem
 
-> 
-
-Thank you to our [Department for Transport](https://www.gov.uk/government/organisations/department-for-transport) (DfT), [Google](https://about.google/google-in-uk/) and [PA](https://www.paconsulting.com/) colleagues.
+> Thank you to our [Department for Transport](https://www.gov.uk/government/organisations/department-for-transport) (DfT), [Google](https://about.google/google-in-uk/) and [PA](https://www.paconsulting.com/) colleagues.
 
 ### License
 
