@@ -8,7 +8,7 @@ This repository contains the work of Team 4 for the [AI Hackathon in Transport 2
    - Contains unified datasets of accidents, casualties and vehicles in [Greater Manchester from 2010-2021](https://www.data.gov.uk/dataset/25170a92-0736-4090-baea-bf6add82d118/gm-road-casualty-accidents-full-stats19-data)
    - Combines and cleans the raw [accident](https://odata.tfgm.com/opendata/downloads/STATS19AccDataJan2010Dec2021forGMServers.csv), [casualty](https://odata.tfgm.com/opendata/downloads/STATS19CasDataJan2010Dec2021forGMServers.csv) and [vehicle](https://odata.tfgm.com/opendata/downloads/STATS19VehDataJan2010Dec2021forGMServers.csv) CSV files 
    - Use this as the master dataset for all subsequent analysis and visualisation
-- The [Jupyter Notebook](./manchester_accident_create_unified_dataset.ipynb) for creating a unified dataset is here.
+   - The [Jupyter Notebook](./manchester_accident_create_unified_dataset.ipynb) for creating a unified dataset is here.
 
 2. `manchester_accident_severity1_heatmap.ipynb`
    - [Jupyter Notebook](./manchester_accident_severity1_heatmap.ipynb) generates an interactive heatmap of the severity of one accident in Greater Manchester
