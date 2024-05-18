@@ -41,6 +41,19 @@ Ada x Amine x Harry x Finbarrs x Jill x Jamie x Hakem
 
 This project is licensed under the [MIT License](./LICENSE).
 
+### Citation
+
+```tex
+@misc{aihackathonintransport2024,
+  author       = {Oketunji, AF. et al},
+  title        = {AI Hackathon in Transport 2024 (0.0.1)},
+  year         = 2024,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.11213634},
+  url          = {https://doi.org/10.5281/zenodo.11213634}
+}
+```
+
 ### Copyright
 
 (c) 2024 DfT - [Department for Transport](https://www.gov.uk/government/organisations/department-for-transport).
